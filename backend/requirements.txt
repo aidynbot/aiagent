@@ -1,0 +1,15 @@
+# Минимальный MVP набор
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+redis
+celery
+openai
+python-telegram-bot
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+requests
+croniter
+jsonschema
